@@ -1,6 +1,9 @@
 # API + HTTP
 requests==2.31.0
 
+# Retry logic
+tenacity==8.2.3
+
 # Postgres
 psycopg2-binary==2.9.9
 
